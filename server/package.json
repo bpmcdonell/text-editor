@@ -3,6 +3,7 @@
     "version": "1.0.0",
     "description": "",
     "main": "server.js",
+    "node": "18.x",
     "scripts": {
         "server": "nodemon server.js --ignore client"
     },
